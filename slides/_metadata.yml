@@ -1,0 +1,13 @@
+author: "Giacomo Lemoli"
+institute: "CUNEF Universidad"
+format:
+  beamer:
+    theme: metropolis
+    slide-level: 2
+    aspectratio: 169
+    navigation: horizontal
+    include-in-header:
+      text: |
+        \usecolortheme[snowy]{owl}
+        \usepackage[sfdefault, book]{FiraSans}
+

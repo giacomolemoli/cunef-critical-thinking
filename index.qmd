@@ -1,0 +1,31 @@
+---
+title: "Critical Thinking"
+subtitle: "Academic Year 2026–2027 — CUNEF Universidad"
+---
+
+<!-- Placeholder for course banner or image -->
+<!-- ![Course Image Placeholder](https://via.placeholder.com/800x400?text=Critical+Thinking) -->
+
+
+(Under Construction)
+
+<!--
+## Course Information
+
+- **Instructor**: Giacomo Lemoli — [giacomolemoli.github.io](https://giacomolemoli.github.io)
+- **Instructor's Email**: [giacomo.lemoli@cunef.edu](mailto:giacomo.lemoli@cunef.edu) *(Placeholder)*
+- **Office Location**: [Campus / Office Number] *(Placeholder)*
+- **Office Hours**: [Day & Time, e.g., Monday 14:00–16:00] *(Placeholder)*
+- **Class Location**: [Room Number / Building] *(Placeholder)*
+- **Class Meeting Times**: [Meeting schedule, e.g., Tuesday & Thursday 10:00–11:30] *(Placeholder)*
+
+## Course Overview
+
+
+
+*(Placeholder)* This course equips students with foundational analytical and evaluative tools in critical thinking, logical reasoning, and argumentation. Students will learn how to identify, dissect, and construct arguments, distinguish sound inferences from fallacies and cognitive biases, and communicate reasoned arguments effectively.
+
+Detailed information regarding course policies, learning objectives, and evaluations is available on the [Syllabus](syllabus.qmd) page. The schedule of sessions, readings, and slide decks can be found on the [Calendar](calendar.qmd).
+
+## Required Texts and Materials
+-->

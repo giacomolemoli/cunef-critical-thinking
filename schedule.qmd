@@ -1,0 +1,5 @@
+---
+title: "Course Schedule"
+---
+
+Please see the full [Course Calendar](calendar.qmd) for the schedule of sessions, readings, assignments, and PDF slide decks.

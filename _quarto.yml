@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Critical Thinking"
+  site-url: "https://giacomolemoli.github.io/cunef-critical-thinking"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
+      - text: "Calendar"
+        href: calendar.qmd
+  page-footer:
+    center: "Giacomo Lemoli · [giacomolemoli.github.io](https://giacomolemoli.github.io)"
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
