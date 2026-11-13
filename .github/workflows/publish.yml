@@ -23,11 +23,11 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ github.token }}
         with:
           version: "release"
-
-      - name: Set up TinyTeX
-        uses: quarto-dev/quarto-actions/install-tinytex@v2
+          tinytex: true
 
       - name: Render site
         run: quarto render
